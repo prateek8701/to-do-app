@@ -1,0 +1,1 @@
+This project involves building a fully functional To-Do List Web Application using only front-end technologies (HTML, CSS, JavaScript) without any frameworks or libraries. The app allows users to add, remove, and mark tasks as complete dynamically.
